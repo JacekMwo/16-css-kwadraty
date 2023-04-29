@@ -1,0 +1,41 @@
+h1 {color: white;
+font-size: 2em; margin-left: 20px;
+
+}
+
+section {   
+    width: 300px;
+    height: 650px;
+    background-color: #808080;
+}
+
+.Kwadrat1 {width: 135px;
+    height: 135px;
+    background-color: #fea500;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.Kwadrat2 {width: 135px;
+    height: 135px;
+    background-color: #fea500;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+
+.Kwadrat3 {width: 135px;
+    height: 135px;
+    background-color: #fea500;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+
+.Kwadrat4 {width: 135px;
+    height: 135px;
+    background-color: #fea500;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
