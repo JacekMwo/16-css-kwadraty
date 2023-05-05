@@ -1,41 +1,34 @@
-h1 {color: white;
-font-size: 2em; margin-left: 20px;
-
+h1 {
+    color: white;
+    font-size: 2em;
+    margin-left: 20px;
 }
 
-section {   
+section {
     width: 300px;
     height: 650px;
     background-color: #808080;
 }
 
-.Kwadrat1 {width: 135px;
-    height: 135px;
+.kwadrat1 {
     background-color: #fea500;
-    margin-left: 40px;
-    margin-top: 10px;
 }
 
-.Kwadrat2 {width: 135px;
-    height: 135px;
+.kwadrat2 {
     background-color: #fea500;
-    margin-left: 40px;
-    margin-top: 10px;
-
 }
 
-.Kwadrat3 {width: 135px;
-    height: 135px;
+.kwadrat3 {
     background-color: #fea500;
-    margin-left: 40px;
-    margin-top: 10px;
-
 }
 
-.Kwadrat4 {width: 135px;
-    height: 135px;
+.kwadrat4 {
     background-color: #fea500;
+}
+
+.box {
+    width: 135px;
+    height: 135px;
     margin-left: 40px;
     margin-top: 10px;
-
 }
