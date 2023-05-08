@@ -10,25 +10,10 @@ section {
     background-color: #808080;
 }
 
-.kwadrat1 {
-    background-color: #fea500;
-}
-
-.kwadrat2 {
-    background-color: #fea500;
-}
-
-.kwadrat3 {
-    background-color: #fea500;
-}
-
-.kwadrat4 {
-    background-color: #fea500;
-}
-
 .box {
     width: 135px;
     height: 135px;
     margin-left: 40px;
     margin-top: 10px;
+    background-color: #fea500;
 }
